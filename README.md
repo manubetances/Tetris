@@ -6,5 +6,10 @@ A recreation of the classic Tetris game completely written in C#. The game featu
 
 Main Menu Screen
 
+Tetris/Assets/Screenshots/Main Menu.png
 
 Game
+
+Tetris/Assets/Screenshots/Gameplay.png
+
+Tetris/Assets/Screenshots/GameOver.png
