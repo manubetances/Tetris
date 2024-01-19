@@ -14,10 +14,10 @@ The game features a Hold block feature to save a block for future moves. It trac
 
 Main Menu Screen
 
-![Main Menu Screen Screenshot](Tetris/Assets/Screenshots/MainMenu.png =450x450)
+<img src="Tetris/Assets/Screenshots/MainMenu.png" width=450 height=450>
 
 Game
 
-![Game Screenshot](Tetris/Assets/Screenshots/Gameplay.png =450x450)
+<img src="Tetris/Assets/Screenshots/Gameplay.png" width=450 height=450>
 
-![Game Over Screenshot](Tetris/Assets/Screenshots/GameOver.png =450x450)
+<img src="Tetris/Assets/Screenshots/GameOver.png" width=450 height=450>
